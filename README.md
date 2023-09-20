@@ -1,6 +1,1 @@
-# flask-demo
-
-> my test 1
-
-> my test 2
-
+# argocd笔记使用
